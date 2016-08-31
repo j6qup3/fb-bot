@@ -8,7 +8,7 @@ test_logs
 node_modules
 
 # Babel.js
-lib/
+# lib/
 
 # cache folder
 .cache
